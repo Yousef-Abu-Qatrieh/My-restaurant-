@@ -1,2 +1,2 @@
 # My-restaurant
-![Screenshot 2022-01-17 141348](https://user-images.githubusercontent.com/97651232/149769017-e490ea67-d304-4426-824d-7ea9c26ded13.png)
+![Screenshot 2022-01-17 160912](https://user-images.githubusercontent.com/97651232/149791555-0f071610-d99f-49a4-ad88-8d57582ebee8.png)
